@@ -23,6 +23,7 @@ attack and defense scenarios.
 - Lynis security auditing (two rounds, improved hardening score)
 - auditd audit logging setup
 - AIDE file integrity monitoring
+- Bash and Python security automation scripting
 
 ## Skills Demonstrated
 - Access control and user permission management
@@ -32,6 +33,9 @@ attack and defense scenarios.
 - Vulnerability assessment and scanning
 - Network security and firewall management
 - File integrity monitoring
+- SIEM log analysis and threat hunting (Splunk)
+- Security automation scripting (Bash and Python)
+- Live attack detection and IDS tuning (Suricata)
 ## Tools Used
 - Lynis - Security auditing and hardening
 - Suricata - Intrusion detection system (IDS)
